@@ -1,0 +1,14 @@
+.\build\uvision5\nsapi_dns.o: mbed-os/features/net/network-socket/nsapi_dns.cpp
+.\build\uvision5\nsapi_dns.o: mbed_config.h
+.\build\uvision5\nsapi_dns.o: mbed-os/features/net/network-socket/nsapi_dns.h
+.\build\uvision5\nsapi_dns.o: mbed-os/features/net/network-socket/nsapi_types.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/features/net/network-socket/NetworkStack.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/features/net/network-socket/SocketAddress.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/hal/api/toolchain.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/features/net/network-socket/NetworkInterface.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/features/net/network-socket/UDPSocket.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/features/net/network-socket/Socket.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/rtos/rtos/Mutex.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/rtos/rtx/TARGET_CORTEX_M/cmsis_os.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/hal/api/Callback.h
+.\build\uvision5\nsapi_dns.o: ./mbed-os/rtos/rtos/Semaphore.h

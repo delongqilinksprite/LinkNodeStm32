@@ -11,4 +11,3 @@ public:
 
 extern SingletonPtr<GreenteaSerial> greentea_serial;
 #endif
-

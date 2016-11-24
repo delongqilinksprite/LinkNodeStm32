@@ -3,6 +3,3 @@
 SingletonPtr<GreenteaSerial> greentea_serial;
 
 GreenteaSerial::GreenteaSerial() : mbed::RawSerial(USBTX, USBRX) {};
-    
-    
-    
